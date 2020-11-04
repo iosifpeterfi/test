@@ -61,7 +61,7 @@ $ sudo ansible-playbook -i localhost, playbook.yml \
   -e "ansible_python_interpreter=/usr/bin/python3"
 ```
 
-After the first run of the script, the kernel is setup and the following message will be displayed:
+After the first run of the script, the new kernel is installed and the following message will be displayed:
 
 ```
 ok: [localhost] => {
@@ -69,7 +69,8 @@ ok: [localhost] => {
 }
 ```
 
-Reboot the system as requested
+Reboot the system as requested.
+
 
 # 6. Run the playbook to start the node
 
