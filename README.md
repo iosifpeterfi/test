@@ -1,8 +1,8 @@
 # test
 
 ```bash
-foo@bar:~$ echo '123'
+$ echo '123'
 123
-foo@bar:~$ 
+$ 
 
 ```
