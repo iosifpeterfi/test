@@ -1,6 +1,6 @@
 # test
 
-```bash
+```console
 $ testing
 $ echo '123'
 123
