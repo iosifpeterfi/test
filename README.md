@@ -1,6 +1,9 @@
 # test
 
-```sh
-testing
+```bash
+$ testing
+$ echo '123'
 123
+$
+
 ```
