@@ -79,4 +79,4 @@ $ sudo ansible-playbook -i localhost, playbook.yml \
   -e "ansible_python_interpreter=/usr/bin/python3"
 ```
 
-test
+t
